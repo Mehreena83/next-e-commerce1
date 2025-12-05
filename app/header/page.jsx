@@ -91,7 +91,7 @@ export default function Header() {
                 style={path === "/about" ? activeBtn : navBtn}
               >
                 ABOUT
-              </Link>
+              </Link>3
             </li>
 
             <li className="nav-item mx-2">
